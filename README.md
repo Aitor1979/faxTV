@@ -12,6 +12,7 @@ In addition, the application recommends a list of movies based on the time fores
 
 The application is developed with [React](https://reactjs.org). The design has been made with SASS.
 
+**Link to the website:** [FaxTV](https://xavi016.github.io/faxTV/fax-tv-app/)
 
 ## Functional Description
 
